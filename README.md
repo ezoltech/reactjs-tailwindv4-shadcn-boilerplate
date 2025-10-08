@@ -29,6 +29,12 @@ Clone this repository to get started:
 
 ```bash
 git clone https://github.com/ezoltech/reactjs-tailwindv4-shadcn-boilerplate.git
+```
+
+```bash
 cd react-tailwind-shadcn-starter
+```
+
+```bash
 npm install
 ```
